@@ -1,0 +1,26 @@
+{
+  "name": "ssr-node-service",
+  "version": "1.0.0",
+  "description": "SPA的服务端渲染解决方案",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wen911119/ssr-node-service.git"
+  },
+  "keywords": [
+    "ssr",
+    "spa"
+  ],
+  "author": "wen911119@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wen911119/ssr-node-service/issues"
+  },
+  "homepage": "https://github.com/wen911119/ssr-node-service#readme",
+  "dependencies": {
+    "puppeteer": "^0.13.0"
+  }
+}
